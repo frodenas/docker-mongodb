@@ -4,7 +4,7 @@ A Dockerfile that produces a Docker Image for [MongoDB](http://www.mongodb.org/)
 
 ## MongoDB version
 
-The `master` branch currently hosts MongoDB 2.6.
+The `master` branch currently hosts MongoDB 3.0.
 
 Different versions of MongoDB are located at the github repo [branches](https://github.com/frodenas/docker-mongodb/branches).
 
